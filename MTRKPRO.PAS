@@ -463,11 +463,6 @@ Begin
   Repeat
     playpos:=step;
     If tracking then TrackPosition (number);
-    Repeat
-      ShowEqu;
-      if niceeffect then
-        show_nice_effect (position [number], number, lastpos, looppos, speed)
-    Until (time + (10 - speed) <= LongInt (Ptr ($40, $6C)^));
     if not niceeffect then
       showpattern (position [number], number, lastpos, looppos, speed);
     track:=position [number];
@@ -491,6 +486,12 @@ Begin
       if (number > lastpos) and (looppos > 0) then
         number:=looppos;
     end;
+    Repeat
+      ShowEqu;
+      if niceeffect then
+        show_nice_effect (position [number], number, lastpos, looppos, speed)
+    Until (time + (10 - speed) <= LongInt (Ptr ($40, $6C)^));
+
     time:=Longint (Ptr ($40, $6c)^);
   Until (number > lastpos) or (ch = #27) or (ch = #0);
   If keypressed then ch:=Readkey;
