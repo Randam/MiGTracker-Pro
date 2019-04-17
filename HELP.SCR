@@ -1,0 +1,23 @@
+ษอออออออออออออออออออออออออออต                     ฦออออออออออออออออออออออออออออป
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤยฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ <F-KEYS>                      ณ <EDIT KEYS>                                  บ
+บ [F 1] Pattern/position editor ณ [SHIFT+CURSOR LEFT/RIGHT] Scroll in patterns บ
+บ [F 2] Instrument select       ณ [+ -]    Scroll in positions                 บ
+บ [F 3] Load song               ณ [ENTER]  Repeat last typed event             บ
+บ [F 4] Save song               ณ [DEL]    Delete event                        บ
+บ [F 5] Play Song               รฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ [F 6] Play current pattern    ณ <EVENTS>                                     บ
+บ [F 7] Play from cursor        ณ [Vxx]    Volume      [//]    End of pattern  บ
+บ [F 8] Silence                 ณ [M x]    Modulation  [T+x]   Transpose up    บ
+บ [F 9] Clear Song              ณ [R x]    Chorus      [T-x]   Transpose down  บ
+บ [F10] Help                    ณ [S x]    Speed       [Ixx]   Program Change  บ
+บฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤลฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤบ
+บ                               ณ <OTHER>                                      บ
+บ <BLOCK FUNCTIONS>             ณ [TAB]    Toggle equaliser  [CTRL/Q] Quit     บ
+บ [CTRL/B] Set begin of block   ณ [CTRL/A] Note audition     [ESC]    Menu     บ
+บ [CTRL/E] Set end of block     ณ [CTRL/Z] Toggle channel    [*] Change Color- บ
+บ [CTRL/C] Copy block to cursor ณ [CTRL/S] Change speed          scheme        บ
+บ [, >]    Transpose block up   ณ [CTRL/L] Change loop position                บ
+บ [. <]    Transpose block down ณ [CTRL/P] Change last position                บ
+บ                               ณ [CTRL/T] Setting scan      [CTRL/V] Viewmode บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
