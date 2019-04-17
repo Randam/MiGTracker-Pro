@@ -1,8 +1,8 @@
 # MiGTracker Pro
 
-MiGTracker Pro is a MIDI tracker for DOS. I created it in 1996/1997 and used it to compose the game soundtrack for Avalon. To use the program now, run it under Dosbox. The original sourcecode compiles in Turbo Pascal 7. 
+MiGTracker Pro is a MIDI tracker for DOS. I created it in 1996/1997 and used it to compose the game soundtrack for Avalon. It is heavily inspired on the Moonblaster trackers for the MSX computer system.
 
-The executable in the archive was patched to be able to run on pentium processors and faster.
+To use the program now, run it under Dosbox. The original sourcecode compiles in Turbo Pascal 7. The executable in the archive was patched to be able to run on pentium processors and faster.
 
 ![MiGTracker Pro](https://www.jeroenderwort.nl/wp-content/uploads/2012/10/mtrkscr.gif "MiGTracker Pro")
 
