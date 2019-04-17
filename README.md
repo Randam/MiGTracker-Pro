@@ -117,21 +117,6 @@ A Brief Tutorial.
 
 
 
-If you have any questions or comment about MiGTracker Pro, please visit
-the MiG Homepage at:
-
-    http://www.gironet.nl/home/roder/
-
-or e-mail us at:
-
-   v972090@si.hhs.nl
-
-MiG
-
-
-
-
-
 
 
 
