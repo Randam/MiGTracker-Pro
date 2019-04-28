@@ -1,25 +1,34 @@
+# MiGTracker Pro
+
+MiGTracker Pro is a MIDI tracker for DOS. I created it in 1996/1997 and used it to compose the game soundtrack for Avalon. It is heavily inspired on the Moonblaster trackers for the MSX computer system.
+
+To use the program now, run it under Dosbox. The original sourcecode compiles in Turbo Pascal 7. The executable in the archive was patched to be able to run on pentium processors and faster.
+
+![MiGTracker Pro](https://www.jeroenderwort.nl/wp-content/uploads/2012/10/mtrkscr.gif "MiGTracker Pro")
+
+## Dosbox setup
+
+Because MiGTracker Pro uses the Soundblaster MPU-401 to output music, under default settings in Dosbox this will run fine. IRQ needs to be set to 5.
+
+Below is the original readme of the program.
+
 MiGTracker Pro Brief User Guide
 -------------------------------
 
 
 What is MiGTracker Pro ?
 
-     MiGTracker Pro is an easy and fast way to create music for usage in
-     games or just for fun.
-     The idea about MiGTracker is that the composer can make great music
-     in little time, without knowledge about how to play an instrument.
+     MiGTracker Pro is an easy and fast way to create music for usage in games or just for fun.
+     The idea about MiGTracker is that the composer can make great music in little time, without knowledge about how to play an instrument.
 
 
 Why use MiGTracker Pro ?
 
     MiGTracker uses the "Tracker" system for the creation of music.
-    Other examples of programs using the Tracker system are ScreamTracker,
-    FastTracker, Moonblaster etc.
+    Other examples of programs using the Tracker system are ScreamTracker, FastTracker, Moonblaster etc.
 
-    The Tracker system means that you type the data for your music with your
-    computer-keyboard.
-    In MiGTracker it is not possible to record it via a MIDI instrument,
-    but you type the required notes directy.
+    The Tracker system means that you type the data for your music with your computer-keyboard.
+    In MiGTracker it is not possible to record it via a MIDI instrument, but you type the required notes directy.
 
     This has of course advantages and disadvantages.
     Some of the advantages are:
@@ -35,15 +44,13 @@ Why use MiGTracker Pro ?
 What do I need to use MiGTracker Pro ?
 
     You of course need a Wavetable compatible sound-card, such as an AWE32.
-    This card must have the feature of emulating MIDI with it's wavetable
-    in DOS. (The AWE32,64 does this.)
+    This card must have the feature of emulating MIDI with it's wavetable in DOS. (The AWE32,64 does this.)
     It's also possible to play MiGTracker music on an external MIDI device.
 
 
 A Brief Tutorial.
 
- *  When you start MiGTracker, the MiG logo will appear. After that the main
-    screen will show up.
+ *  When you start MiGTracker, the MiG logo will appear. After that the main screen will show up.
 
  *  You'll see the 15 music-channels, like this:
 
@@ -55,9 +62,7 @@ A Brief Tutorial.
 
     Your cursor will be at the 1-C01 position (upper-left).
 
-    You can now enter music by typing the right note (A,B,C,D,E,F or G),
-    with an optional (#), and then a number. This number represents the
-    octave in which the note will be heard.
+    You can now enter music by typing the right note (A,B,C,D,E,F or G), with an optional (#), and then a number. This number represents the octave in which the note will be heard.
 
     e.g:
 
@@ -66,8 +71,7 @@ A Brief Tutorial.
    2|_- | - | - | - |
    3| - | - | - | - |
 
-   If you'll press <F5> you can hear the song, and in this case you'll
-   only hear an A# in octave 4.
+   If you'll press <F5> you can hear the song, and in this case you'll only hear an A# in octave 4.
 
    In this way you can edit the various patterns. The limit is 60.
    You can manouver through the patterns by using CTRL/[LEFT or RIGHT].
