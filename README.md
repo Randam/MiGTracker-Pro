@@ -6,6 +6,8 @@ To use the program now, run it under Dosbox. The original sourcecode compiles in
 
 ![MiGTracker Pro](https://www.jeroenderwort.nl/wp-content/uploads/2012/10/mtrkscr.gif "MiGTracker Pro")
 
+View [MiGTracker Pro in action](https://www.youtube.com/watch?v=6r0wR7ZVB84&list=PLLjm8Cn6GAFL2biYW1eopMZmauQ2EiUS0)
+
 ## Dosbox setup
 
 Because MiGTracker Pro uses the Soundblaster MPU-401 to output music, under default settings in Dosbox this will run fine. IRQ needs to be set to 5.
